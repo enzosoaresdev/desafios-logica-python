@@ -1,3 +1,5 @@
+#Imprimindo nome e número na tela
+
 nome = input("Digite seu nome: ")
 idade = int(input("Digite sua idade: "))
 
