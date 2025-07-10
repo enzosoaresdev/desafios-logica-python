@@ -1,4 +1,4 @@
-#Soma de dois números em Python
+#Função que soma dois números digitados
 
 num1 = int(input("Digite o primeiro número para somar: "))
 num2 = int(input("Digite o segundo número para somar: "))
