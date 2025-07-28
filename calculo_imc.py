@@ -1,3 +1,5 @@
+#Programa que realiza o calculo de IMC (índice de Massa Corporal).
+
 peso = float(input("Digite seu peso: "))
 altura = float(input("Digite sua altura: "))
 
